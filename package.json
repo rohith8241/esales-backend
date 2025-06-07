@@ -1,0 +1,19 @@
+{
+  "name": "esales",
+  "version": "1.0.0",
+  "description": "esales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohith8241/esales-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohith8241/esales-backend/issues"
+  },
+  "homepage": "https://github.com/rohith8241/esales-backend#readme"
+}
